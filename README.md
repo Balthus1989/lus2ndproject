@@ -6,6 +6,7 @@
 For each experiment described in the report, it possibile to replicate them performing the following steps:
 * 1 - Launch one of the four Init.sh script
 * 2 - Use the newly generated training and test sets with the CRF++ commands crf_learn and crf_test 
+* 3 - Evaluate the performances with the conlleval.pl script
 Instructions:
 
 ## Cross-Validation
